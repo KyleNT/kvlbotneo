@@ -1,2 +1,2 @@
 # kvlbotneo
-SüdwesterBot, or KVLBot NEO
+KVLBot NEO, an old Javascript project
